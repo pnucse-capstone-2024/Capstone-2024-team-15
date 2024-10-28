@@ -31,10 +31,15 @@
 
 
 ### 3. 설치 및 사용 방법
-> git clone 주소
-> intelij에 접속
-> .yml 파일 생성 및 gpt 토큰 입력
-> 프로그램 실행
+
+```
+
+ git clone [주소](https://github.com/pnucse-capstone-2024/Capstone-2024-team-15.git)
+ intelij에 접속
+ .yml 파일 생성 및 gpt 토큰 입력
+ 프로그램 실행
+
+```
 
 ### 4. 소개 및 시연 영상
 
